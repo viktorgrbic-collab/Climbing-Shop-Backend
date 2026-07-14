@@ -1,2 +1,1 @@
-# Climbing Shop Backend
-Online shop
+A full-stack web application designed for managing a climbing equipment store. The project consists of a Spring Boot REST API backend and a JavaScript frontend that communicate through HTTP requests. The backend is built with Spring Boot, Spring Security, JWT authentication, Spring Data JPA, Hibernate, and MySQL, providing secure access to all protected resources. The frontend offers an intuitive interface for managing products, stores, inventory, users, and customer orders. The application includes authentication and authorization, complete CRUD functionality, relational database management, and follows a layered architecture to ensure maintainability, scalability, and separation of concerns.
